@@ -1,0 +1,3 @@
+﻿  String Homework09.11.cpp
+D:\Проекты\String Homework09.11\String Homework09.11.cpp(25,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  String Homework09.11.vcxproj -> D:\Проекты\String Homework09.11\x64\Debug\String Homework09.11.exe
